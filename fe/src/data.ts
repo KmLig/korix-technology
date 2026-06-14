@@ -22,13 +22,13 @@ export const IMAGES = {
     "https://lh3.googleusercontent.com/aida-public/AB6AXuC501sFwJzdRTeI07ipHiMntmPFfhg46aFmG7AUEhSt_XwwsmdHpY_ZVIUgfaCMOzViapOc0WGEZnrJFLmvcEultLYF2C8VFm2ekWZQLXiWviEB50SyK1OE0PBUWqZtvvyCauo67PPhs1R5r_AFiqtDb6vqgt1-O5QcznbPqSSYX6-6faTwE25g5hZPlknerLny_qquTSWxPlRCy1g4gdsOXEnS-tSMBAF9rnScv7G7Z7JiqFnu1RMN9RRYezmnRHbdixTND98_OtNs",
   officeSkyline:
     "https://lh3.googleusercontent.com/aida-public/AB6AXuBtnGRejQ-f2AI7FIU7pmlDux4_oqV_GY6wp7tq5i4lt3y0eYJHQNFNXpfwLhUW6VRC_SeiS4bmcYG-RZa3l6dGJG34QW_mlMQQUCURMpEZ_kY7ZxB0srfXERW7mvt-F8He363v3hzRP4g5qUnUCRvrfFRM6QT1f4TbRtRs7NezkYhfrTRiRMStTVfkNPVX3aKXyx1KVUUSepkOFujC3PLdU3gS81Yo46vn2xMq6zhbrjURb_9JEoGnhEKH5uSE2wepAB75vZlTkD6O",
-  ceoKhiem:
+  ctoKhiem:
     "https://lh3.googleusercontent.com/aida-public/AB6AXuBPRu_OY6PmARRdPT_RZM0uMSbcPM6bC6ggV2_5M7d6HYwUdo30qFnCkLX3ktWrKXejgbSX0ixvfpmz2w9S7d-MiNdO_8cTgUHedzbJ0I5-ABbAsxPuGQFSsOfKL9XbAygXktPLSr-zOzMQWccUAn_Ik9oEGROJCNRpUfcwuoYhyfHdirrxI5CUoHuUzQqoccScEY98pPlA6lqJJKKuo96yEBVpBlgQ0lAowObdx-JJHvzzoAT0roNT0ZXruwJ6vWQ8B_PkQWCPoaqU",
-  productElena:
+  qualityT:
     "https://lh3.googleusercontent.com/aida-public/AB6AXuC9DKQsEok8_7A8fWbvtyel71pGDCFbePww0l8KhIjQq8-Fu2XkqdE-90D5xyHR1bwKCknKS4kSp5aZiVBNlRSXcHVyYCk4CRk_DgnmqBFwZWsHCJTpeOG05SyzmgrI6AIpm1oQjaJijxf5ylxYt1IiyY2dSmSCeq-lAcU3OHY0aTzx1ZNSrft49htgMSq7AgFtzu85GOl7SVeYV_rmXjzmoZlIWg3IJZ5x2buLwChfxaHHRPtVXdQYAVOENU09buY8wY2mlMX-7r18",
-  cloudMarcus:
+  cloudN:
     "https://lh3.googleusercontent.com/aida-public/AB6AXuDqOLn0i1r4mi2haTzvQPIE-XbhLYuqKc56DaW9a99geMXJyckq0n8zuofpad4FYBRXUfanf_yB-CRsOyGNsUDLL5-ixY5ySG96mEYU3dYQfVvomv2PBecTGd6U7Etkrwly6L7p9Z3nOPcxMmJCKF7C6lIPTYB_Me_ezjYaG1jvs9n3YgwAT_j0rw54jMhRrZj73iEP6YKKQsu4siB56yCPz6K-XOb6WT4UaJLx0cYrCg9OL1h-6hvIBmQsLGk7JMajkb8OJhv5SHQF",
-  aiSophia:
+  salesL:
     "https://lh3.googleusercontent.com/aida-public/AB6AXuCqzrKNoV6hhiSxj5lVUQD95UL8hvOqKndyDQDdyEagc5g7V4mdc_JC762ZA_rPlJI6Asa-pFwYUBSfOxaSdJxF1qO_2jngp92CmD65cnPSV7i5ND_oqcV8IoPws3t5z7Bsuteg0j8beyjO_gFhA-1qrqLTUMV4jkb7jTBiG-crewx0_m6ZmN-OtETAWv38u-kBz1er8XwuKFDwbS5lRLNUHc8dBQJl6Cefuecb79d0bfQ_BdHzU_QqvXbX2XEjANdcwoZ0Lt7F695N",
   laptopCode:
     "https://lh3.googleusercontent.com/aida-public/AB6AXuBhkOT6enCI0VBxU5wp_UOfMo-2BK3Sr0VssNlrfff1oQYt9rGOj-kSIUt7F0sra9sxwAFnif0qf3-vsltoIdEu46fdBC5tlddtZF2xy7Gb0GPTs5zyvnDEK2E-88yC98TeJWnnPNSm0mVXC65tNgTdc36GoC2sJzMEgbeyd5LbO7nHUntbs0gs5xruOjcCV7vAyzD-AfYS5-ZAh44CRWwys53sd3fjj72-VS3xOHXdOLc85YY4q1nDX7mn8r9Xu5jSbRxBDNNSkNDk",
@@ -342,27 +342,27 @@ export const TRANSLATIONS = {
 export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: "K Pham",
-    role: "Chief Executive Officer (CTO)",
-    bio: "Ex-Director of Engineering at a premier Silicon Valley tech giant. 15 years leading cross-functional distributed infrastructure and high-throughput real-time APIs.",
-    imageUrl: IMAGES.ceoKhiem,
+    role: "Chief Executive Officer & CTO",
+    bio: "Ex-Head of Engineering at a premier US tech giant. Years leading cross-functional distributed infrastructure and high-throughput real-time APIs.",
+    imageUrl: IMAGES.ctoKhiem,
   },
   {
     name: "T Phung",
     role: "Head of Quality & Design",
     bio: "Senior UX designer advocate with a strict philosophy of minimalist usability, robust component design systems, and stunning motion transitions.",
-    imageUrl: IMAGES.productElena,
+    imageUrl: IMAGES.qualityT,
   },
   {
     name: "N Nguyen",
     role: "Head of Engineering & Cloud",
     bio: "AWS Certified Solutions Architect Professional. Experienced in spinning up elastic Kubernetes architectures and zero-failure serverless engines.",
-    imageUrl: IMAGES.cloudMarcus,
+    imageUrl: IMAGES.cloudN,
   },
   {
     name: "L Tran",
     role: "Head of Sales & Client Success",
     bio: "Ph.D. in Computer Science focusing on Natural Language Processing & computer vision. Architect behind Korix’s adaptive warehouse model.",
-    imageUrl: IMAGES.aiSophia,
+    imageUrl: IMAGES.salesL,
   },
 ];
 
