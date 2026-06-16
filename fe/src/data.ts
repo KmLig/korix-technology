@@ -28,7 +28,7 @@ export const IMAGES = {
     "https://lh3.googleusercontent.com/aida-public/AB6AXuC9DKQsEok8_7A8fWbvtyel71pGDCFbePww0l8KhIjQq8-Fu2XkqdE-90D5xyHR1bwKCknKS4kSp5aZiVBNlRSXcHVyYCk4CRk_DgnmqBFwZWsHCJTpeOG05SyzmgrI6AIpm1oQjaJijxf5ylxYt1IiyY2dSmSCeq-lAcU3OHY0aTzx1ZNSrft49htgMSq7AgFtzu85GOl7SVeYV_rmXjzmoZlIWg3IJZ5x2buLwChfxaHHRPtVXdQYAVOENU09buY8wY2mlMX-7r18",
   cloudN:
     "https://lh3.googleusercontent.com/aida-public/AB6AXuDqOLn0i1r4mi2haTzvQPIE-XbhLYuqKc56DaW9a99geMXJyckq0n8zuofpad4FYBRXUfanf_yB-CRsOyGNsUDLL5-ixY5ySG96mEYU3dYQfVvomv2PBecTGd6U7Etkrwly6L7p9Z3nOPcxMmJCKF7C6lIPTYB_Me_ezjYaG1jvs9n3YgwAT_j0rw54jMhRrZj73iEP6YKKQsu4siB56yCPz6K-XOb6WT4UaJLx0cYrCg9OL1h-6hvIBmQsLGk7JMajkb8OJhv5SHQF",
-  salesL:
+  salesH:
     "https://lh3.googleusercontent.com/aida-public/AB6AXuCqzrKNoV6hhiSxj5lVUQD95UL8hvOqKndyDQDdyEagc5g7V4mdc_JC762ZA_rPlJI6Asa-pFwYUBSfOxaSdJxF1qO_2jngp92CmD65cnPSV7i5ND_oqcV8IoPws3t5z7Bsuteg0j8beyjO_gFhA-1qrqLTUMV4jkb7jTBiG-crewx0_m6ZmN-OtETAWv38u-kBz1er8XwuKFDwbS5lRLNUHc8dBQJl6Cefuecb79d0bfQ_BdHzU_QqvXbX2XEjANdcwoZ0Lt7F695N",
   laptopCode:
     "https://lh3.googleusercontent.com/aida-public/AB6AXuBhkOT6enCI0VBxU5wp_UOfMo-2BK3Sr0VssNlrfff1oQYt9rGOj-kSIUt7F0sra9sxwAFnif0qf3-vsltoIdEu46fdBC5tlddtZF2xy7Gb0GPTs5zyvnDEK2E-88yC98TeJWnnPNSm0mVXC65tNgTdc36GoC2sJzMEgbeyd5LbO7nHUntbs0gs5xruOjcCV7vAyzD-AfYS5-ZAh44CRWwys53sd3fjj72-VS3xOHXdOLc85YY4q1nDX7mn8r9Xu5jSbRxBDNNSkNDk",
@@ -359,10 +359,10 @@ export const TEAM_MEMBERS: TeamMember[] = [
     imageUrl: IMAGES.cloudN,
   },
   {
-    name: "L Tran",
+    name: "H Le",
     role: "Head of Sales & Client Success",
     bio: "Ph.D. in Computer Science focusing on Natural Language Processing & computer vision. Architect behind Korix’s adaptive warehouse model.",
-    imageUrl: IMAGES.salesL,
+    imageUrl: IMAGES.salesH,
   },
 ];
 
